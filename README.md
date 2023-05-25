@@ -1,3 +1,3 @@
 ### Digital-Clock
 
-#Apurv Keer and Mridul Goel
+##Apurv Keer and Mridul Goel
